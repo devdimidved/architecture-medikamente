@@ -1,0 +1,292 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
+  <diagram name="Диаграмма Исикавы - Медикаменте" id="1qU0LKUdMxDXJuAyNfZb">
+    <mxGraphModel dx="1799" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Проблемная&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;миграция&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;на микросервисы&lt;/span&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="710" y="420" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="RvbTSMlcSrHrfLyP6xCr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="490" as="sourcePoint" />
+            <mxPoint x="430" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-5" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Инфраструктура&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="790" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-6" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Программное обеспечение&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-7" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Интеграция&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="790" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-8" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Персонал&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-9" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Процессы&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="790" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-10" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Безопасность&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="RvbTSMlcSrHrfLyP6xCr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="540" as="sourcePoint" />
+            <mxPoint x="620" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-12" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1" source="RvbTSMlcSrHrfLyP6xCr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-15" value="Единая точка отказа" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="540" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-17" value="Недостаток ресурсов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="580" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="560" as="sourcePoint" />
+            <mxPoint x="600" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="600" as="sourcePoint" />
+            <mxPoint x="590" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="sourcePoint" />
+            <mxPoint x="580" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="690" as="sourcePoint" />
+            <mxPoint x="560" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-22" value="Нет масштабирования" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-25" value="Локальная сеть" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="620" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="380" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="370" as="sourcePoint" />
+            <mxPoint x="365" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+            <mxPoint x="350" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-30" value="Монолитная архитектура" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-31" value="Устаревший стек технологий" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-32" value="Отсутствие API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-33" value="Файловый режим 1С" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-35" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539.3220338983053" y="210" as="sourcePoint" />
+            <mxPoint x="620" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="370" as="sourcePoint" />
+            <mxPoint x="585" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-40" value="Отсутствие шифрования" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-41" value="Нет контроля доступа" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-42" value="Данные не классифицированы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-43" value="Отсутствие аудита" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="790" as="sourcePoint" />
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-46" value="Отсутствие внешнего API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="540" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-47" value="Разрозненные системы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="560" as="sourcePoint" />
+            <mxPoint x="380" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="600" as="sourcePoint" />
+            <mxPoint x="370" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="640" as="sourcePoint" />
+            <mxPoint x="360" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="690" as="sourcePoint" />
+            <mxPoint x="340" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-52" value="Legacy протоколы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-53" value="Ручной обмен данными" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-55" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.32203389830534" y="210" as="sourcePoint" />
+            <mxPoint x="160" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="420" as="sourcePoint" />
+            <mxPoint x="140" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-55" y="370" as="sourcePoint" />
+            <mxPoint x="125" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="320" as="sourcePoint" />
+            <mxPoint x="110" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="280" as="sourcePoint" />
+            <mxPoint x="100" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-60" value="Недостаток экспертизы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="260" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-61" value="Сопротивление изменениям" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="300" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-62" value="Малая команда IT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="350" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-63" value="Отсутствие DevOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="790" as="sourcePoint" />
+            <mxPoint x="160" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-66" value="Ручные процессы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="540" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-67" value="Отсутствие CI/CD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="580" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="560" as="sourcePoint" />
+            <mxPoint x="140" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="600" as="sourcePoint" />
+            <mxPoint x="130" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="640" as="sourcePoint" />
+            <mxPoint x="120" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="690" as="sourcePoint" />
+            <mxPoint x="100" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-72" value="Отсутствие мониторинга" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="670" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-73" value="Нет тестирования" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="620" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RvbTSMlcSrHrfLyP6xCr-74" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Безопасность&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(приоритет: критический)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;i&gt;Проблемы&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Отсутствие шифрования медицинских данных&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Нет контроля доступа к конфиденциальной информации&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Отсутствие тегирования и классификации данных по уровню конфиденциальности.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Отсутствие аудита операций с данными&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;i&gt;Рекомендации&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Внедрение шифрования данных (в покое и при передаче)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Реализация RBAC/ABAC для контроля доступа&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Настройка аудита всех операций с медицинскими данными&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Реализовать тегирование данных&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Инфраструктура&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(приоритет: высокий)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Проблемы&lt;/i&gt;:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Единая точка отказа: Один физический сервер для всех систем&lt;/div&gt;&lt;div&gt;- Недостаток вычислительных ресурсов для обработки роста нагрузки&lt;/div&gt;&lt;div&gt;- Отсутствие горизонтального масштабирования&lt;/div&gt;&lt;div&gt;- Локальная инфраструктура не подходит для филиалов&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Рекомендации&lt;/i&gt;:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Миграция в облако (Yandex Cloud, VK Cloud) для обеспечения высокой доступности&lt;/div&gt;&lt;div&gt;- Внедрение контейнеризации (Docker + Kubernetes) для масштабируемости&lt;/div&gt;&lt;div&gt;- Настройка резервного копирования&lt;/div&gt;&lt;div&gt;- Развертывание сети между филиалами через VPN&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;Программное обеспечение&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(приоритет: высокий)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Проблемы&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Монолитная архитектура не позволяет независимое развитие компонентов&lt;/div&gt;&lt;div&gt;- Файловый режим 1С создает блокировки при многопользовательской работе&lt;/div&gt;&lt;div&gt;- Отсутствие современных API для интеграций&lt;/div&gt;&lt;div&gt;- Устаревший технологический стек&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Рекомендации&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Декомпозиция монолита на микросервисы по доменам:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Сервис управления пациентами&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Сервис записи на прием&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Сервис платежей&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Внедрение API Gateway для управления API&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Реализация асинхронной обработки через Message Broker (RabbitMQ/Kafka)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Интеграция&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(приоритет: средний)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Проблемы&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Отсутствие стандартизированных API&lt;/div&gt;&lt;div&gt;- Ручной обмен данными между системами&lt;/div&gt;&lt;div&gt;- Несовместимые форматы данных (Excel, 1C, PDF)&lt;/div&gt;&lt;div&gt;- Отсутствие API Gateway&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Рекомендации&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Внедрить API Gateway (например, Kong или Tyk) для управления API-контрактами и валидации данных.&lt;/div&gt;&lt;div&gt;- Настроить OAuth 2.0 и JWT для безопасной аутентификации и авторизации.&lt;/div&gt;&lt;div&gt;- Использовать шифрование (TLS) для защиты данных при передаче.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Персонал&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(приоритет: средний)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Проблемы&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Недостаток экспертизы в современных технологиях&lt;/div&gt;&lt;div&gt;- Малый размер IT-команды (3 человека)&lt;/div&gt;&lt;div&gt;- Отсутствие DevOps-практик&lt;/div&gt;&lt;div&gt;- Сопротивление изменениям со стороны пользователей&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Рекомендации&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Найм дополнительных специалистов:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;DevOps engineer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Security engineer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;Backend developers (2-3)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;QA engineer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Обучение текущей команды современным технологиям&lt;/div&gt;&lt;div&gt;- Внедрение процессов knowledge sharing&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Процессы&lt;/u&gt;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;(приоритет: средний)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Проблемы&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Ручные бизнес-процессы без автоматизации&lt;/div&gt;&lt;div&gt;- Отсутствие CI/CD для развертывания&lt;/div&gt;&lt;div&gt;- Нет процессов тестирования&lt;/div&gt;&lt;div&gt;- Отсутствие мониторинга и алертинга&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;Рекомендации&lt;/i&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;- Внедрение CI/CD pipeline (GitLab CI/Jenkins)&lt;/div&gt;&lt;div&gt;- Автоматизированное тестирование (unit, integration, security tests)&lt;/div&gt;&lt;div&gt;- Мониторинг и алертинг (Prometheus + Grafana)&lt;/div&gt;&lt;div&gt;- Внедрение Agile/SCRUM методологии&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="10" width="640" height="1190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
